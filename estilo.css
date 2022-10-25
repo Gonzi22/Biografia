@@ -1,0 +1,23 @@
+*{ 
+    background-color: rgb(19, 19, 20);
+    color:rgb(238, 213, 87);
+    text-align: center ;
+
+}
+#imgPerfil{
+    border-radius: 50px;
+    border:solid 10px;
+    border-color: rgb(0, 38, 255);
+}
+
+.titulos{
+    font-size: 500%;
+    font-style: italic;
+}
+h2{
+    font-size: 150%;
+}
+#biografia{
+    width: 1500px;
+    height: 200px;
+}
